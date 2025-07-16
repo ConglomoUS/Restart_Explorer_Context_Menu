@@ -1,8 +1,5 @@
 # Restart Explorer Context Menu
 
-!!! github "View Repository on GitHub"
-    [Restart Explorer Context Menu](https://github.com/ConglomoUS/Restart_Explorer_Context_Menu) — Check out the Repository on GitHub for the Latest Download.
-
 ![Restart Explorer](Readme_Assets/Restart_Explorer.png)
 
 
